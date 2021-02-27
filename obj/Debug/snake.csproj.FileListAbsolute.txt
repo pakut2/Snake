@@ -1,0 +1,10 @@
+D:\csProjects\snake\bin\Debug\snake.exe.config
+D:\csProjects\snake\bin\Debug\snake.exe
+D:\csProjects\snake\bin\Debug\snake.pdb
+D:\csProjects\snake\obj\Debug\snake.FormSnake.resources
+D:\csProjects\snake\obj\Debug\snake.Properties.Resources.resources
+D:\csProjects\snake\obj\Debug\snake.csproj.GenerateResource.cache
+D:\csProjects\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+D:\csProjects\snake\obj\Debug\snake.exe
+D:\csProjects\snake\obj\Debug\snake.pdb
+D:\csProjects\snake\obj\Debug\snake.csprojAssemblyReference.cache
